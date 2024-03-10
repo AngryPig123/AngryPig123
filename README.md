@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/redis-999999.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/slack-999999.svg?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/confluence-999999.svg?style=for-the-badge&logo=confluence&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/aws-s3-999999.svg?style=for-the-badge&logo=aws&logoColor=white"/>&nbsp
 </div>
 
 <br>
