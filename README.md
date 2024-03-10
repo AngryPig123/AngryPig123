@@ -6,27 +6,30 @@
 
 <br>
 
-
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
 
-  <div>
-    <h3 align="left"> 👀 back-end 👀 </h3>
-    <div align="left">
-      <img src="https://img.shields.io/badge/spring%20boot-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/spring%20security-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/spring%20data%20jpa-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-    </div>
+<br>
+
+<div>
+  <h3 align="left"> 👀 back-end 👀 </h3>
+  <div align="left">
+    <img src="https://img.shields.io/badge/spring%20boot-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/spring%20security-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/spring%20data%20jpa-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   </div>
+</div>
+
+<br>
   
-  <div>
-    <h3 align="left"> 🎨 front 🎨 </h3>
-    <div align="left">
-      <img src="https://img.shields.io/badge/javascript-999999.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
-      <img src="https://img.shields.io/badge/jsp-999999.svg?style=for-the-badge"/>&nbsp
-      <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
-    </div>
+<div>
+  <h3 align="left"> 🎨 front 🎨 </h3>
+  <div align="left">
+     <img src="https://img.shields.io/badge/javascript-999999.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
+     <img src="https://img.shields.io/badge/jsp-999999.svg?style=for-the-badge"/>&nbsp
+    <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
   </div>
+</div>
 
 <br>
 
