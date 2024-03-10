@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
 
 - 🔭 I’m currently working on ...
   - ```[spring/java] Systems integrator developer```
+ 
+</div>
 
 <h3 align="left"> 👀 back-end 👀 </h3>
 <div align="left">
@@ -19,14 +22,6 @@
   <img src="https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 </div>
 
-<h3 align="left">🛠 Tools 🛠</h3>
-<div align="left">
-
-</div>
-
-<div align="left">
-
-</div>
 
 <br>
 
