@@ -1,23 +1,27 @@
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
-    
-<h3 align="left"> 👀 back-end 👀 </h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/spring%20boot-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/spring%20security-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/spring%20data%20jpa-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-  <br>
+
+<div style="display: flex;">
+  
   <div align="left">
-    <img src="https://img.shields.io/badge/jsp-999999.svg?style=for-the-badge"/>&nbsp
-    <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
+    <h3 align="left"> 👀 back-end 👀 </h3>
+    <img src="https://img.shields.io/badge/spring%20boot-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/spring%20security-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/spring%20data%20jpa-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+    <br>
+    <div align="left">
+      <img src="https://img.shields.io/badge/jsp-999999.svg?style=for-the-badge"/>&nbsp
+      <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
+    </div>
   </div>
-</div>
+  
+  <br>
+  
+  <div align="left">
+    <h3 align="left"> 🎨 front 🎨 </h3>
+    <img src="https://img.shields.io/badge/javascript-999999.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
+  </div>
 
-<br>
-
-<h3 align="left"> 🎨 front 🎨 </h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/javascript-999999.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
 </div>
 
 <br>
@@ -60,8 +64,6 @@
 <br>
 
 <div style="display: flex;">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryPig123&layout=compact)
-![AngryPig123's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryPig123&show_icons=true&theme=radical)
-
+  ![AngryPig123's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryPig123&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryPig123&layout=compact)
 </div>
