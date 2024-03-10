@@ -1,3 +1,11 @@
+<div>
+  <a href="https://angrypig123.github.io/" target="_blank">
+    <img src="https://github.com/AngryPig123/angrypig123.github.io/assets/86225268/60c8eac8-a33e-455d-aae7-c7a72051c2e7" alt="my_blog" width="100" height="100">
+  </a>
+    <p> AngryPig123 github blog </p>
+</div>
+
+
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
 
@@ -73,6 +81,3 @@
 </div>
 
 
-<a href="https://angrypig123.github.io/" target="_blank">
-  <img src="https://github.com/AngryPig123/angrypig123.github.io/assets/86225268/60c8eac8-a33e-455d-aae7-c7a72051c2e7" alt="my_blog">
-</a>
