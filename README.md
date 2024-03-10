@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring%20security-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring%20data%20jpa-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+  <br>
+  <div align="left">
+    <img src="https://img.shields.io/badge/jsp-008000.svg?style=for-the-badge"/>&nbsp
+    <img src="https://img.shields.io/badge/thymeleaf-008000.svg?style=for-the-badge"/>&nbsp
+  </div>
 </div>
 
 <br>
