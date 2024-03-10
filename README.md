@@ -24,7 +24,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/eclipse-999999.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/visual%20studio%20code-999999.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ-999999.svg?style=for-the-badge&logo=IntelliJ&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-999999.svg?style=for-the-badge&logo=intellij&logoColor=white"/>&nbsp
 </div>
 
 
