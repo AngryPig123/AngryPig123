@@ -10,8 +10,6 @@
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
 
-<div style="display: flex;">
-
   <div>
     <h3 align="left"> 👀 back-end 👀 </h3>
     <div align="left">
@@ -29,8 +27,6 @@
       <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
     </div>
   </div>
-
-</div>
 
 <br>
 
