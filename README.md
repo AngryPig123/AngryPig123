@@ -1,10 +1,6 @@
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
 
-- <a href="https://angrypig123.github.io/" target="\_blank">my blog</a>
-
-
-
 <div style="display: flex;">
 
   <div>
@@ -75,3 +71,8 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryPig123&layout=compact)
   
 </div>
+
+
+<a href="https://angrypig123.github.io/" target="_blank">
+  <img src="https://github.com/AngryPig123/angrypig123.github.io/assets/86225268/60c8eac8-a33e-455d-aae7-c7a72051c2e7" alt="my_blog">
+</a>
