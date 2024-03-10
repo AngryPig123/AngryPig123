@@ -15,8 +15,8 @@
 
 <h3 align="left"> 🛠 tools 🛠 </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/docker-ff0000.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/git-0000ff.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/docker-0000ff.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 </div>
 
 <h3 align="left">🛠 Tools 🛠</h3>
