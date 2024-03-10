@@ -59,6 +59,9 @@
 <br>
 <br>
 
+<div style="display: flex;">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryPig123&layout=compact)
+![AngryPig123's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryPig123&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryPig123&show_icons=true&theme=radical)
+</div>
