@@ -8,7 +8,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring%20security-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/hibernate-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/hibernate-008000.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
 </div>
 
 <br>
