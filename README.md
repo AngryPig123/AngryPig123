@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge/>&nbsp
   <img src="https://img.shields.io/badge/spring%20security-008000.svg?style=for-the-badge/>&nbsp
   <img src="https://img.shields.io/badge/spring%20data%20jpa-008000.svg?style=for-the-badge/>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/jsp-9999.svg?style=for-the-badge"/>&nbsp
   <img src="https://img.shields.io/badge/thymeleaf-9999.svg?style=for-the-badge"/>&nbsp
   <img src="https://img.shields.io/badge/restful%20api-9999.svg?style=for-the-badge"/>&nbsp
