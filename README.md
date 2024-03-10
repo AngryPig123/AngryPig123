@@ -1,7 +1,8 @@
 - 🔭 I’m currently on ...
   - ``` 2rd year.... [spring/java] Systems integrator developer```
 
-- 🔭 [my blog](https://angrypig123.github.io/){:target="\_blank"}
+- 🔭 <a href="[https://dkswnkk.tistory.com/720](https://angrypig123.github.io/)" target="\_blank">my blog</a>
+
 
 
 <div style="display: flex;">
