@@ -1,8 +1,6 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-  - ```[spring/java] Systems integrator developer```
- 
+- 🔭 I’m currently on ...
+  - ``` 2rd year.... [spring/java] Systems integrator developer```
+    
 <h3 align="left"> 👀 back-end 👀 </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/spring%20boot-999999.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
@@ -13,6 +11,13 @@
     <img src="https://img.shields.io/badge/jsp-999999.svg?style=for-the-badge"/>&nbsp
     <img src="https://img.shields.io/badge/thymeleaf-999999.svg?style=for-the-badge"/>&nbsp
   </div>
+</div>
+
+<br>
+
+<h3 align="left"> 🎨 front 🎨 </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/javascript-999999.svg?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp
 </div>
 
 <br>
@@ -39,6 +44,15 @@
   <img src="https://img.shields.io/badge/eclipse-999999.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/visual%20studio%20code-999999.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/IntelliJ-999999.svg?style=for-the-badge&logo=intellij&logoColor=white"/>&nbsp
+</div>
+
+<br>
+
+<h3 align="left"> 🎈 other... 🎈 </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/redis-999999.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/slack-999999.svg?style=for-the-badge&logo=slack&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/confluence-999999.svg?style=for-the-badge&logo=confluence&logoColor=white"/>&nbsp
 </div>
 
 <br>
