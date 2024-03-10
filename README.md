@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ...
   - ```[spring/java] Systems integrator developer```
 
-<h3 align="left"> 👀 back-end learning 👀 </h3>
+<h3 align="left"> 👀 back-end 👀 </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring%20security-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
@@ -12,6 +12,12 @@
 </div>
 
 <br>
+
+<h3 align="left"> 🛠 tools 🛠 </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/docker-008000.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/git-008000.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
+</div>
 
 <h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
