@@ -4,11 +4,11 @@
 - 🔭 I’m currently working on ...
   - ```[spring/java] Systems integrator developer```
 
-<h3 align="left"> 👀 공부중 👀 </h3>
+<h3 align="left"> 👀 back-end learning 👀 </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring%20security-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/hibernate-008000.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/spring%20data%20jpa-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
 </div>
 
 <br>
