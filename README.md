@@ -6,7 +6,7 @@
 
 <h3 align="left"> 👀 공부중 👀 </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/spring%20boot-181717.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 
 </div>
 
