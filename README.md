@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
-
 - 🔭 I’m currently working on ...
   - ```[spring/java] Systems integrator developer```
  
-</div>
-
 <h3 align="left"> 👀 back-end 👀 </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/spring%20boot-008000.svg?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp
@@ -22,12 +18,12 @@
   <img src="https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 </div>
 
-
 <br>
 
+<h3 align="left"> 🗂 IDE 🗂 </h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/eclipse-0000ff.svg?style=for-the-badge&logo=eclipse&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/git-ff0000.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 </div>
 
 
